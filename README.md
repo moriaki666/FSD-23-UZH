@@ -5,11 +5,7 @@ The target groups for this course are the MSc students (with major or minor in d
 
 ## Course Topics
 
-Introduction to Data Science
-What is Data Science?; Origins of Data Science; Full Scope of Data Science; Scope of This Course
-Data Science vs: Computer Science, Statistics, Machine Learning
-The Future of Data Analysis (Tukey); The Two Cultures (Breiman)
-The Big Data Buzz
+
 Introduction to Machine Learning
 What is Machine Learning? Programming vs Learning; Evolution of Machine Learning; Machine Learning in Action
 An Early Automatic Classification Example and The Perceptron Algorithm
@@ -101,4 +97,5 @@ Practicals
 The practical tasks require implementation using jupyter notebooks, Python, Scikit-learn, and TensorFlow.
 
 Implementation of Linear Regression (Ridge, Lasso)
+
 Comparison of Generative and Discriminative Models
